@@ -7,3 +7,7 @@ Movie app built with React, GraphQL Apollo
 ### Installed
 
 - yarn add styled-components react-router-dom @apollo/client graphql
+
+### api
+
+- need to run `learnGraphQL` server
